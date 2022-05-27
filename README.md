@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nazikaiasylbekova. I'm the founder of AI start-up.
+- 👋 Hi, I’m @nazikaiasylbekova. I'm a curious data scientist and ML engineer.
 - 👀 I’m interested in working with developers ...
-- 🌱 I’m currently learning web-developing ..
+- 🌱 I’m currently learning ML development..
 - 📫 How to reach me asylbekovanazikai@gmail.com..
 
 <!---
